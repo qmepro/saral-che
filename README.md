@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/qmepro/saral-che) 
+
 # Bael Netlify CMS Template
 
 ![Bael](https://i.imgur.com/e1zmiB2.jpg "Bael CMS Blog Template")
